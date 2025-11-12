@@ -1,0 +1,2 @@
+this is the content of file.txt
+i am writing this content in the file to read, write and update the data of users
